@@ -1,4 +1,5 @@
-### Hi there 👋
+hola mi nonbre de usuario es carolsanc
+Actualmente estoy estudiando el curso de fundamentos en programacion web
 
 <!--
 **carolsanc/carolsanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
